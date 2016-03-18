@@ -1,0 +1,9 @@
+C:\Users\KMaughan\Documents\Visual Studio 2013\Projects\NewProgramme1\NewProgramme1\bin\Debug\NewProgramme1.exe.config
+C:\Users\KMaughan\Documents\Visual Studio 2013\Projects\NewProgramme1\NewProgramme1\bin\Debug\NewProgramme1.exe
+C:\Users\KMaughan\Documents\Visual Studio 2013\Projects\NewProgramme1\NewProgramme1\bin\Debug\NewProgramme1.pdb
+C:\Users\KMaughan\Documents\Visual Studio 2013\Projects\NewProgramme1\NewProgramme1\bin\Debug\NewProgramme1.xml
+C:\Users\KMaughan\Documents\Visual Studio 2013\Projects\NewProgramme1\NewProgramme1\obj\Debug\NewProgramme1.Resources.resources
+C:\Users\KMaughan\Documents\Visual Studio 2013\Projects\NewProgramme1\NewProgramme1\obj\Debug\NewProgramme1.vbproj.GenerateResource.Cache
+C:\Users\KMaughan\Documents\Visual Studio 2013\Projects\NewProgramme1\NewProgramme1\obj\Debug\NewProgramme1.exe
+C:\Users\KMaughan\Documents\Visual Studio 2013\Projects\NewProgramme1\NewProgramme1\obj\Debug\NewProgramme1.xml
+C:\Users\KMaughan\Documents\Visual Studio 2013\Projects\NewProgramme1\NewProgramme1\obj\Debug\NewProgramme1.pdb
