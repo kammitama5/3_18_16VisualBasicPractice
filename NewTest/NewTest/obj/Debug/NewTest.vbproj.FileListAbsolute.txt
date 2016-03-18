@@ -1,0 +1,9 @@
+C:\Users\KMaughan\Documents\Visual Studio 2013\Projects\NewTest\NewTest\bin\Debug\NewTest.exe.config
+C:\Users\KMaughan\Documents\Visual Studio 2013\Projects\NewTest\NewTest\bin\Debug\NewTest.exe
+C:\Users\KMaughan\Documents\Visual Studio 2013\Projects\NewTest\NewTest\bin\Debug\NewTest.pdb
+C:\Users\KMaughan\Documents\Visual Studio 2013\Projects\NewTest\NewTest\bin\Debug\NewTest.xml
+C:\Users\KMaughan\Documents\Visual Studio 2013\Projects\NewTest\NewTest\obj\Debug\NewTest.Resources.resources
+C:\Users\KMaughan\Documents\Visual Studio 2013\Projects\NewTest\NewTest\obj\Debug\NewTest.vbproj.GenerateResource.Cache
+C:\Users\KMaughan\Documents\Visual Studio 2013\Projects\NewTest\NewTest\obj\Debug\NewTest.exe
+C:\Users\KMaughan\Documents\Visual Studio 2013\Projects\NewTest\NewTest\obj\Debug\NewTest.xml
+C:\Users\KMaughan\Documents\Visual Studio 2013\Projects\NewTest\NewTest\obj\Debug\NewTest.pdb
